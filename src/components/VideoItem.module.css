@@ -1,0 +1,10 @@
+.videoItem {
+    padding: 0.5rem;
+    border: 1px solid red;
+    border-radius: 0.1rem;
+    margin: 0.5rem 0;
+}
+
+.duration {
+    margin-right: 0.5rem;
+}
